@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 
-🌱 I’m currently learning Back-End Web developing skills
+🌱 I’m currently learning Java based Back-End Web applications 
+
 🏫 BSc in Bionano Engineering and Computer Engineering
+
+📍Seoul, South Korea
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubinLee8)](https://github.com/anuraghazra/github-readme-stats)'
