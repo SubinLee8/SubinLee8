@@ -8,7 +8,7 @@
 📍  Seoul, South Korea
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubinLee8)](https://github.com/anuraghazra/github-readme-stats)'
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubinLee8)](https://github.com/anuraghazra/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/subinwithleetcode?theme=light&font=Saira)
 
 <!--
